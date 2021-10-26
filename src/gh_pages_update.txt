@@ -1,3 +1,6 @@
 // npm run deploy
 // -> 
 // gh-pages -d build
+
+# react start
+// npm start 
